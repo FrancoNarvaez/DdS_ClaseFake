@@ -17,7 +17,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"title\": \"Pala\",\n    \"price\": 1000,\n    \"description\": \"Herramienta para trabajar\",\n    \"category\": \"Utilidades\",\n    \"image\": \"imangen_pala\",\n    \"rating\": {\n        \"rate\": 10.0,\n        \"contador\": 1\n    }\n}",
+							"raw": "{\n    \"title\": \"Tecnologías\",\n    \"price\": 1000,\n    \"description\": \"Productos tecnológicos\",\n    \"category\": \"Electrónica\",\n    \"image\": \"imagen_tecnologias\",\n    \"rating\": {\n        \"rate\": 10.0,\n        \"contador\": 1\n    }\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -180,7 +180,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"id\": 1,\n    \"title\": \"Mouse\",\n    \"price\": 1500,\n    \"description\": \"Periferico para PC\",\n    \"category\": \"Perifericos\",\n    \"image\": \"imangen_mouse\",\n    \"rating\": {\n        \"rate\": 8.0,\n        \"contador\": 2\n    }\n}",
+							"raw": "{\n    \"id\": 1,\n    \"title\": \"Mouse\",\n    \"price\": 1500,\n    \"description\": \"Periférico para PC\",\n    \"category\": \"Periféricos\",\n    \"image\": \"imagen_mouse\",\n    \"rating\": {\n        \"rate\": 8.0,\n        \"contador\": 2\n    }\n}",
 							"options": {
 								"raw": {
 									"language": "json"
